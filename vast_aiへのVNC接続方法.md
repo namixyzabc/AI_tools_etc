@@ -2,7 +2,9 @@
 # VNCサーバー設定手順
 
 ## 1. ROOTでログイン
-
+```bash
+vas.aiのコンソール上から、SSHの接続コマンドをコピペ
+```
 ## 2. userのパスワードを設定
 ```bash
 passwd user
