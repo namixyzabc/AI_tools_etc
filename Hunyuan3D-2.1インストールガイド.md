@@ -1,6 +1,6 @@
 # Hunyuan3D-2.1 Ubuntu環境セットアップ・ワンライナーガイド
 
-**前提条件**: Ubuntu + NVIDIA GPU (VRAM 16GB以上推奨) + NVIDIAドライバ + CUDA Toolkit 12.4
+**前提条件**: Ubuntu + NVIDIA GPU (VRAM 40GB以上推奨) + NVIDIAドライバ + CUDA Toolkit 12.4
 
 ## 1. システム準備
 ```bash
