@@ -1,3 +1,6 @@
+https://github.com/google-gemini/gemini-cli/tree/main/docs
+
+
 
 ---
 
