@@ -3,6 +3,7 @@
 ### --yoroモード 
 geminiが自律的に行動するモードで起動
 
+例：gemini --yoro
 ---
 
 
